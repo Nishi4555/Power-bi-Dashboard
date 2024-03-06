@@ -1,1 +1,2 @@
 # Power-bi-Dashboard
+The Amazon Prime Dashboard in Power BI is a comprehensive visualization tool designed to provide detailed insights into the performance and usage patterns of the Amazon Prime service. This dashboard is aimed at empowering decision-makers with actionable analytics derived from Amazon Prime's diverse data sources. By leveraging Power BI's capabilities, this dashboard offers a user-friendly interface for in-depth exploration of key metrics, trends, and user behaviors related to Amazon Prime subscriptions and content consumption.
